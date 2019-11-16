@@ -105,21 +105,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="200LawDP\C#_OOPS_Tutorial_for_beginners_-_C#_OOPS_Online_Training_-_C#_OOPS_Part_2.mp4" />
-    <Content Include="200LDN\C#_OOPS_Tutorial_for_beginners_-_C#_OOPS_Online_Training_-_C#_OOPS_Part_2.mp4" />
-    <Content Include="200LDN\MTH202PastQuestions.jpg" />
-    <Content Include="200LDN\MTH209PastQuesions.jpg" />
     <Content Include="Abouts.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
-    <Content Include="Data\MTH202PastQuestions.jpg" />
-    <Content Include="Data\MTH209PastQuesions.jpg" />
-    <Content Include="Data\Multiplying a vector by a scalar _ Vectors and spaces _ Linear Algebra _ Khan Academy %28 720 X 1280 %29.mp4" />
-    <Content Include="Data\Old separable differential equations example _ First order differential equation.mp4" />
-    <Content Include="Data\Old separable differential equations introduction _ Khan Academy.mp4" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -132,73 +123,6 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <Content Include="Data\05. ms powerpoint.pdf" />
-    <Content Include="Data\CS 102 MSAccess1.4.pdf" />
-    <Content Include="Data\CS 102 MSAccess1.5.pdf" />
-    <Content Include="Data\cs204lectures_full.pdf" />
-    <Content Include="Data\Mth 202.pdf" />
-    <Content Include="Data\phy202 answers and questions.pdf" />
-    <Content Include="Data\MTH202 PDF.pdf" />
-    <Content Include="Data\Cs204.pdf" />
-    <Content Include="Data\Mth203.pdf" />
-    <Content Include="Data\CSC204lectures_full.pdf" />
-    <Content Include="Data\Csc102PowerPoint.pdf" />
-    <Content Include="Data\COMPUTER INTERACTION_INPUT.pdf" />
-    <Content Include="Data\CS 102 MSAccess1.1.pdf" />
-    <Content Include="Data\CS 102 MSAccess1.2.pdf" />
-    <Content Include="Data\CS201 ALAMS.pptx" />
-    <Content Include="Data\CSC 102 practice questions.docx" />
-    <Content Include="Data\Linear algebra and its applications.pdf" />
-    <Content Include="Data\Maths 103 Study questions.pdf" />
-    <Content Include="Data\MTH 103 0607 - Copy.pdf" />
-    <Content Include="Data\MTH 209  numerical analysis.pdf" />
-    <Content Include="Data\MTH102 PQ-2.pdf" />
-    <Content Include="Data\mth103 2007 - 2008 Q &amp; A.pdf" />
-    <Content Include="Data\MTH103ModulesNotes2013v1-1-1.pdf" />
-    <Content Include="Data\MTH103ModulesNotes2013v1-1-1.rar" />
-    <Content Include="Data\OPERATING SYSTEMS AND UTILITY PROGRAMS.pdf" />
-    <Content Include="Data\PHY102 TBOOK.pdf" />
-    <Content Include="Data\STA 203.pdf" />
-    <Content Include="100LDN\%28GST101 PQ1%29 AMOS4SUG003-1.pdf" />
-    <Content Include="100LDN\%28GST101 PQ1%29 AMOS4SUG003.pdf" />
-    <Content Include="100LDN\%28GST102 PQ%29 AMOS4SUG003.pdf" />
-    <Content Include="100LDN\COMPUTER INTERACTION_INPUT.pdf" />
-    <Content Include="100LDN\CS 102 MSAccess1.1.pdf" />
-    <Content Include="100LDN\CS 102 MSAccess1.2.pdf" />
-    <Content Include="100LDN\CS 102 MSAccess1.4.pdf" />
-    <Content Include="100LDN\CS 102 MSAccess1.5.pdf" />
-    <Content Include="100LDN\GST 104-1.pdf" />
-    <Content Include="100LDN\GST EXAM 2015%281%29.pdf" />
-    <Content Include="100LDN\GST101.pdf" />
-    <Content Include="100LDN\GST102_Logic%281%29-1-2.pdf" />
-    <Content Include="100LDN\GST102_Logic%281%29-1.pdf" />
-    <Content Include="100LDN\GST102_Logic%281%29-3.pdf" />
-    <Content Include="100LDN\GST102_Logic%281%29.pdf" />
-    <Content Include="100LDN\Maths 103 Study questions.pdf" />
-    <Content Include="100LDN\MTH 103 0607 - Copy.pdf" />
-    <Content Include="100LDN\MTH102 PQ-2.pdf" />
-    <Content Include="100LDN\mth103 2007 - 2008 Q &amp; A.pdf" />
-    <Content Include="100LDN\MTH103ModulesNotes2013v1-1-1.pdf" />
-    <Content Include="100LDN\STA 203.pdf" />
-    <Content Include="100LDN\USE%2520OF%2520LIBRARY%2520AND%2520INFORMATION%2520RESOURCES.pdf" />
-    <Content Include="200LDN\Cs204.pdf" />
-    <Content Include="200LDN\CS204_lectures_Complete.pdf" />
-    <Content Include="200LDN\cs204lectures_full.pdf" />
-    <Content Include="200LDN\MTH202 PDF.pdf" />
-    <Content Include="200LDN\CS201 ALAMS.pptx" />
-    <Content Include="200LDN\Linear algebra and its applications.pdf" />
-    <Content Include="200LDN\MTH 209  numerical analysis.pdf" />
-    <Content Include="200LDN\Mth 202.pdf" />
-    <Content Include="200LDN\Mth203.pdf" />
-    <Content Include="200LDN\phy202 answers and questions.pdf" />
-    <Content Include="200LDN\math 202 solved exercises.pdf" />
-    <Content Include="200LDN\MTH 202PQ.pdf" />
-    <Content Include="200LDN\CS 201 tutorialC++1 A pq&amp;a Dusu Emmanuel.pdf" />
-    <Content Include="200LDN\Gst  223 enterprenuership.pdf" />
-    <Content Include="200LDN\GST 223 2019-06-19 191603.pdf" />
-    <Content Include="200LDN\GST 223 HO.pdf" />
-    <Content Include="200LDN\GST 223 Online Exams, 2015%281%29.pdf" />
-    <Content Include="200LDN\GST 223 PPT 2017.ppt" />
     <Content Include="Law200.aspx" />
     <Content Include="Law100.aspx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
@@ -299,7 +223,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="100LawDP\" />
+    <Folder Include="100LDN\" />
+    <Folder Include="200LawDP\" />
+    <Folder Include="200LDN\" />
     <Folder Include="App_Data\" />
+    <Folder Include="Data\" />
     <Folder Include="Mydata\" />
   </ItemGroup>
   <ItemGroup>
